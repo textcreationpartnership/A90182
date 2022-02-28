@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquesse of Ormond's declaration, proclaiming Charles the Second, King of England, Scotland, France, and Ireland, &amp;c. With his summons to Colonel Jones for the surrender of Dublin, and the answer of Colonell Iones thereunto. Also a perfect relation of their forces, and the present affairs of that kingdom. Together with a true copie of the articles of agreement between the said Marquesse, and the Irish. Also a representation of the province of Vlster concerning the evills and dangers to religion, lawes and liberties, arising from the present practices of the sectarian army in England, &amp;c. Imprimatur. G. Mabbot.</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90182</idno>
+            <idno type="STC">Wing O444</idno>
+            <idno type="STC">Thomason E548_28</idno>
+            <idno type="STC">ESTC R203071</idno>
+            <idno type="EEBO-CITATION">99863157</idno>
+            <idno type="PROQUEST">99863157</idno>
+            <idno type="VID">115341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115341)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquesse of Ormond's declaration, proclaiming Charles the Second, King of England, Scotland, France, and Ireland, &amp;c. With his summons to Colonel Jones for the surrender of Dublin, and the answer of Colonell Iones thereunto. Also a perfect relation of their forces, and the present affairs of that kingdom. Together with a true copie of the articles of agreement between the said Marquesse, and the Irish. Also a representation of the province of Vlster concerning the evills and dangers to religion, lawes and liberties, arising from the present practices of the sectarian army in England, &amp;c. Imprimatur. G. Mabbot.</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Jones, Michael, d. 1649.</author>
+                  <author>Presbyterian Church in Ireland. Synod of Ulster.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton, and Iohn Playford, and are to be sold at their shops neer the Inner Temple in Fleet-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Of the articles only the heads are given.</note>
+                  <note>Annotation on Thomason copy: "March 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115341:1"/>
+            <pb facs="tcp:115341:1" rendition="simple:additions"/>
+            <p>The Marqueſſe of <hi>Ormonds</hi> DECLARATION, PROCLAIMING Charles the Second, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>With his Summons to Colonel JONES for the Surrender of <hi>Dublin,</hi> And the Anſwer of Colonell <hi>lones</hi> thereunto.</p>
+            <p>Alſo a perfect Relation of their Forces, and the preſent Affairs of that Kingdom.</p>
+            <p>Together with a true copie of the Articles of Agreement between the ſaid Marqueſſe, and the Iriſh.</p>
+            <p>Alſo a Repreſentation of the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> concerning the Evills and Dangers to Religion, Lawes and Liberties, ariſing from the preſent practices of the Sectarian Army in ENGLAND, &amp;c.</p>
+            <p>Imprimatur. <hi>G. Mabbot.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Francis Tyton,</hi> and <hi>Iohn Playford,</hi> and are to be ſold at their ſhops neer the Inner Temple in Fleet-Street. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115341:2"/>
+            <pb n="1" facs="tcp:115341:2"/>
+            <head>By the Lord Lievtenant Generall of Ireland.</head>
+            <opener>
+               <salute>Ormond.</salute>
+            </opener>
+            <p>WHereas our late Soveraigne King <hi>Charles</hi> of happy memory, hath been lately by a party of his rebellious Subjects of Eng<g ref="char:EOLhyphen"/>land moſt trayterouſly, maliciouſly, and inhumanely put to death and murthered: And foraſmuch as His Majeſty that now is, <hi>Charles</hi> by the Grace of God, King of England, Scotland, France, and Ireland, is Son and Heire of his ſaid late Majeſty; and therefore by the Lawes of the Land in force, and practiſed in all Ages, is to inherit: We therefore in the diſcharge of the duty we owe unto God, our Allegiance and Loyalty to our Soveraigne, holding it fit ſo to pro<g ref="char:EOLhyphen"/>claime in and through this His Majeſties Kingdome, doe by this our preſent Proclamation declare, and ma<g ref="char:EOLhyphen"/>nifeſt to the world, That <hi>Charles</hi> the Second, Son and Heire of our ſaid late Soveraigne King <hi>Charles</hi> the Firſt of happy memory, is by the Grace of God the undoubted King of England, Scotland, France, and Ireland, Defender of the the Faith, &amp;c.</p>
+            <closer>
+               <dateline>Given at Carrick <date>this 16. day of February, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:115341:3"/>
+            <head>The Marqueſſe of <hi>Ormonds</hi> Letter to Colonell <hi>Jones.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have not thus long forborn to invite you, with thoſe under your command, to a ſubmiſſion to his Majeſties authority in me, and a conjunction with me in the waies of his ſervice, out of any the leaſt averſion I had to you, or any of them, or out of any diſeſteem of your power, to advance or impede the ſame, but out of my fear that (whileſt thoſe that have of late uſur<g ref="char:EOLhyphen"/>ped power over the Subjects of England, held forth the leaſt tolerable ſhadow of moderation in their in<g ref="char:EOLhyphen"/>tentions towards the ſettlement of the Church and State, and that in ſome tolerable way, with relation to Religion, the intereſt of the King and Crown, the freedome of Parliaments, and the Liberty of the. Sub<g ref="char:EOLhyphen"/>jects) any addreſſe from me propoſing the withdraw<g ref="char:EOLhyphen"/>ing of that party from thoſe; this profeſſing (from whom they had received ſome, and expected further ſupport) would have been but coldly received, and any determination thereupon deferred in hope and ex<g ref="char:EOLhyphen"/>pectation of the fore-mentioned ſettlement: or that if your ſelf (who certainly have not wanted a foreſight of the ſad confuſion now covering the face of Eng<g ref="char:EOLhyphen"/>land) would have declared with me, the Lord <hi>Inchi<g ref="char:EOLhyphen"/>quin,</hi> and the Proteſtant Army in Munſter, in preventi<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:115341:3"/>thereof: yet my fear was it would have been as dif<g ref="char:EOLhyphen"/>ficult for you to have carried with you the main body of the Army under your Command, not ſo clear-figh<g ref="char:EOLhyphen"/>ted as your ſelf, as it would have been dangerous to you, and thoſe with you wel inclined to have attemp<g ref="char:EOLhyphen"/>ted it without them: But now that the mask of Hipo<g ref="char:EOLhyphen"/>criſie (by which the Independent Army hath enſnared and enſlaved all eſtates and degrees of men) is laid a<g ref="char:EOLhyphen"/>ſide, now that bare-faced they evidently appear to be the ſubverters of true Religion, and the protectors and invitors of all falſe ones, but even of Irreligion and A<g ref="char:EOLhyphen"/>theiſme: Now that they have barbarouſly and inhu<g ref="char:EOLhyphen"/>manoly laid violent ſacrilegious hands upon, and mur<g ref="char:EOLhyphen"/>thered Gods anointed and our King, not as heretofore ſome patricides have done, to make room for ſome u<g ref="char:EOLhyphen"/>ſurper, but in a way plainly manifeſting their intenti<g ref="char:EOLhyphen"/>on is to change the Monarchy of England into Anar<g ref="char:EOLhyphen"/>chy, unleſſe their aim be firſt to conſtitute an elective Kingdome, and <hi>Crumwell</hi> or ſome ſuch <hi>John</hi> of <hi>Leydon</hi> being elected, then by the ſame force by which they have thus far compaſſed their end to eſtabliſh a perfect Turkiſh tyranny. Now that of the three Eſtates of King, Lords and Commons, whereof in all ages Par<g ref="char:EOLhyphen"/>liaments have conſiſted, there remains only a ſmall number, and they the dregs and ſcum of the houſe of Commons, packt and awed by the Army, a wicked rem<g ref="char:EOLhyphen"/>nant left for no other end then yet further (if it be poſſi<g ref="char:EOLhyphen"/>ble) to delude the people with the name of Parliament. The King being murthered, and the Lords and the reſt of the Commons being by unheard of violence at ſeve<g ref="char:EOLhyphen"/>rall times forced from the Houſes, and ſome impri<g ref="char:EOLhyphen"/>ſoned;
+<pb n="4" facs="tcp:115341:4"/>and now that there remaines no liberty in the Subject, but to profeſſe blaſphemous o<g ref="char:EOLhyphen"/>pinions, to revile and tread under foot Magi<g ref="char:EOLhyphen"/>ſtracy, to murther Magiſtrates, and to oppreſſe and undo all that are not like minded with them; now (I ſay) I cannot doubt but that you, and all that are with or under you, will take this opoitunity to declare and act againſt ſo monſtrous and unparallell'd Rebelli<g ref="char:EOLhyphen"/>on, and that you and they will cheerfully acknowledge, and faithfully ſerve and obey our gracious King <hi>Charls</hi> the ſecond, undoubted Heire of his Fathers Crownes and Vertues, under whoſe Right and Conduct we may by Gods bleſſing reſtore Proteſtant Religion to purity, and therein ſettle it; Parliaments to freedome, good Lawes to their force, and our fellow-Subjects to their juſt Liberty; wherein how bleſſed and glorious a thing it will be to be ſo conſiderably inſtrumencall, as you may now make your ſelf, I leave to you to conſi<g ref="char:EOLhyphen"/>der. And though I conceive there are not any motives relating to particular intereſt to be mentioned after theſe ſo weighty conſiderations (which are ſuch as the world hath not been at any time furniſhed with) yet I hold it my part to aſſure you, that as there is nothing you can reaſonably propoſe for the ſafety, ſatisfaction or advantage of your ſelf, or of any that ſhall adhere to you, in what I deſire, that I ſhall not to the uttermoſt of my power provide for, ſo there is nothing I would or ſhall more induſtriouſly avoid, then thoſe neceſſities ariſing from my duty to God and Man, that may (by your rejecting this offer) force mee to be a ſad in<g ref="char:EOLhyphen"/>ſtrument of ſhedding Engliſh blood, which in ſuch caſe
+<pb n="5" facs="tcp:115341:4"/>muſt on both ſides happen. If this ovorture find place with you, as I earneſtly wiſh it may, let me know with what poſſible ſpeed you can; and if you pleaſe by the Bearer, in what way you deſire it ſhould be driven-on to a concluſion; for in that as well as in ſubſtance you ſhall find all ready compliance from me that deſire to be</p>
+            <closer>
+               <dateline>Carrick <date>March 9. 1608.</date>
+               </dateline>
+               <signed>Your affectionate friend to ſerve you, <hi>ORMOND.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>For Colonel <hi>Michael Jones</hi> Governor of Dublin, theſe.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:115341:5"/>
+            <head>Colonel <hi>Jones</hi> his Anſwer to the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Ormonds</hi> Summons.</head>
+            <opener>
+               <salute>My Lord;</salute>
+            </opener>
+            <p>YOur Lordſhips of the ninth I received the twelfth inſtant, and therein have I your Lordſhips invi<g ref="char:EOLhyphen"/>tation to a conjunction with your ſelfe (I ſuppoſe) as Lord Lievtenant of Ireland, and with others now uni<g ref="char:EOLhyphen"/>ted with the Iriſh, and with the Iriſh themſelves.</p>
+            <p>As I underſtand not how your Lordſhip ſhould be inveſted with that power pretended, ſo am I very well aſſured, that it is not in the power of any, without the Parliament of England, to give and aſſure pardon to thoſe bloody Rebells, as by the Act to that end paſſed may appeare more fully: I am alſo aſſured the Parlia<g ref="char:EOLhyphen"/>ment of England would never aſſent to ſuch a Peace (ſuch as is that your Lordſhips with the Rebells) wherein is little or no proviſion made either for the Proteſtants, or the Proteſtant Religion; nor can I un<g ref="char:EOLhyphen"/>derſtand how the Proteſtant Religion ſhould be ſetled and reſtored to its purity by an Army of Papiſts, or the Proteſtants intereſts maintained by thoſe very E<g ref="char:EOLhyphen"/>nemies by whom they have been ſpoiled, and theirs ſlaughtered: and very evident it is, that both the Pro<g ref="char:EOLhyphen"/>teſtant, and Proteſtant Religion are in that your Lord<g ref="char:EOLhyphen"/>ſhips Treaty left as in the power of the Rebells, to be by them borne down and rooted out at pleaſure.</p>
+            <pb n="9" facs="tcp:115341:5"/>
+            <p>As for that conſideration by Your Lordſhip offer<g ref="char:EOLhyphen"/>ed of the proſent and late proceedings in <hi>England,</hi> I ſee not how that may be a ſufficient motive to me (or to any other in like truſt for the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in the ſervice of this <hi>Kingdom</hi>) to joyn with thoſe Rebels upon any the pretences in that Your Lordſhips Letter mentioned.</p>
+            <p>For therein were there a manifeſt betraying that Truſt repoſed in me, in deſerting the ſervice and work committed to me, and in joyning with thoſe I ſhould oppoſe, and in oppoſing whom I am obliged to ſerve.</p>
+            <p>Neither conceive I it any part of my work and care to take notice of any whatſoever proceedings of State forraign to my charge and truſt here, eſpecially they being found hereunto apparently deſtructive.</p>
+            <p>Moſt certain it is, (and former ages have approved it) That intermedling of Governors and parties in this <hi>Kingdom</hi> with ſidings and parties in <hi>England,</hi> hath been the very betraying of this <hi>Kingdom</hi> to the Iriſh, whil'ſt the Brittiſh Forces here had bin therupon cald off, and the place therein layd open (as it were) given up to the common Enemy.</p>
+            <p>It is what Your Lordſhip might have obſerved in Your former Treaty with the Rebels, that upon Your <hi>Lordſhips</hi> there-up withdrawing, and ſending hence into <hi>England</hi> the moſt conſiderable part of the Eng<g ref="char:EOLhyphen"/>liſh <hi>Army,</hi> then commanded by You, thereby was the remaining Brittiſh party not long after over<g ref="char:EOLhyphen"/>powered and Your Quarters by the Iriſh over-run,
+<pb n="10" facs="tcp:115341:6"/>to the Gates of <hi>Dublin;</hi> Your ſelf alſo reduced to that low condition as to be beſieged in this very City, the Metropolis and principal Citadel of this King<g ref="char:EOLhyphen"/>dom, and that by thoſe very Rebels, who till then ne<g ref="char:EOLhyphen"/>ver could ſtand before You; and what the end hath been of that party alſo, ſo ſent by Your Lordſhip into <hi>England</hi> (although the flower and ſtrength of the Engliſh Army here both for Officers and Souldiers) hath been very obſervable.</p>
+            <p>And how much the dangers are at preſent, more then in former ages, of hazarding the Engliſh intereſt in this Kingdom, by ſending any parties hence into any other Kingdom, upon any pretences whatſoever, is very apparent, as in the generality of the Rebellion now, more then formerly; ſo conſidering Your Lordſhips preſent Concluſions with, and Conceſſi<g ref="char:EOLhyphen"/>ons to the Rebells, wherein they are allowed the con<g ref="char:EOLhyphen"/>tinued poſſeſſion of all the Cities, Fores, and places of ſtrength, whereof they ſtood poſſeſſed at the time of their Treaty with Your Lordſhip; and that they are to have a ſtanding force (if I well remember) of 15000 Foot, and 2500 Horſe, all of their own party, Officers and Souldiers; and they, with the whole Kingdom, to be regulated by a Major party of <hi>Iriſh Truſtees,</hi> choſen by the Rebels themſelves, as perſons for their intereſts and ends, to be by them confided in, without whom nothing is to be acted. And here I cannot but minde Your Lordſhip of what hath been ſometime by Your ſelf delivered as Your ſence in this particular, That the Engliſh intereſt in <hi>Ireland</hi> muſt be preſerved by the Engliſh and not by
+<pb n="11" facs="tcp:115341:6"/>the Iriſh, and upon that ground (if I be not deceiv<g ref="char:EOLhyphen"/>ed) did Your Lordſhip capitulate with the Parliament of <hi>England,</hi> from which clear principle I am ſorry to ſee Your Lordſhip now receding.</p>
+            <p>As to that by Your Lordſhips menacing us here, of blood and force, if diſſenting from thoſe Your Lord<g ref="char:EOLhyphen"/>ſhips ways and deſigues.</p>
+            <p>For my particular, I ſhall (my Lord) much rather chuſe to ſuffer in ſo doing (for therein ſhall I do what is becoming and anſwerable to my Truſt) then to purchaſe to my ſelf, in the contrary, the ignomini<g ref="char:EOLhyphen"/>ous brand of perfidie by any allurements of whatſo<g ref="char:EOLhyphen"/>ever advantages offered me.</p>
+            <p>But very confident I am of the ſame Divine power which hath ſtill followed me in this work, and will ſtill follow me, and in that truſt doubt I nothing of giving Your Lordſhip plainly this my reſolution in that particular. So <hi>I</hi> remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>
+                     <hi>Mar.</hi> 4. 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips humble Servant. Signed, <hi>Mic: Jones.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:115341:7"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <hi>ORmond</hi> is now at <hi>Waterford</hi> attended by the Com<g ref="char:EOLhyphen"/>miſſioners of Truſt, (which is the title given theſeof the Iriſh named in the Articles of Agree<g ref="char:EOLhyphen"/>ment,) He hath there been preparing for his Armies, and out of that place (whether by loan or otherwiſe) hath raiſed 9000 <abbr>l.</abbr> towards their ſetting forth, and hath taken up 1500 Barrels of Rye, and 1000 of Wheat; He expects the like proportion from the other Cities and Towns, according to their reſpective abilities, and to that end is now upon his journey to <hi>Limbrick,</hi> and thence intendeth towards <hi>Galway.</hi>
+            </p>
+            <p>
+               <hi>Ruperts</hi> Fleet, being ſixteen ſale, (now victualled) is ſet to ſea; We expect to hear of them ſuddenly on this coaſt, as being a matter of greateſt moment and advantage to their preſent undertakings.</p>
+            <p>The <hi>Ulster Scots</hi> have now declared, and that whole Province (as to your intereſt) is loſt in a moment. They have declined Col. <hi>Monk,</hi> and choſen the Lord of <hi>Ards</hi> for their Commander. <hi>Eniskillin</hi> is ſtill as it was, holding for <hi>Ormond,</hi> Sir <hi>Pheelim Oneill</hi> with about 700 men, is marched Northward for aſsiſting them of <hi>Eniskillin,</hi> if it be requiſite. <hi>Ormonds</hi> Ren<g ref="char:EOLhyphen"/>dezvouz is ſet to be this moneth towards <hi>Catherlagh,</hi> and <hi>Inchequin,</hi> with <hi>Clanrichards</hi> Forces have their Rendezvouz this day at <hi>Burb.</hi> We ſhall have work e<g ref="char:EOLhyphen"/>nough on all hands; and (without a Miracle) ſhall not be able to ſubſiſt long without Relief of Men, Mony, and Proviſion from <hi>England.</hi> We are to con<g ref="char:EOLhyphen"/>flict
+<pb n="13" facs="tcp:115341:7"/>not only with the danger of Enemies without, but alſo within, upon diſcovery of a deſigne againſt <hi>Lexlip</hi> a ſtrong Caſtle within five miles of this City: We have blown up the place, which if it had fallen into the Enemies power, had been to us of great an<g ref="char:EOLhyphen"/>noyance. We are now driven to the laſt refuge for maintenance of our poor Army; 360 <abbr>
+                  <hi>l.</hi>
+               </abbr> a week is aſſeſſed upon this City, who are no more able to bear it, then the Souldiers can be without it.</p>
+            <p>The Enemy begin to make ſome attempts upon our Fronter Gariſons, &amp; have ſurprized the Caſtle of <hi>Drum<g ref="char:EOLhyphen"/>cree,</hi> a place of great advantage to them; the Lord put it into the hearts of thoſe in power to think upon them<g ref="char:EOLhyphen"/>ſelves and us ſpeedily; for no leſs are they, then our ſelves (their ſervants) concerned in this buſineſs; for I am confident the Enemy eye not ſo much the ruine of us, and the ſubverſion of the Engliſh intereſt in this <hi>Kingdom,</hi> as the invaſion of <hi>England</hi> it ſelf, which they may full eaſily do if We be loſt. I am,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your very humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="articles">
+            <pb n="14" facs="tcp:115341:8"/>
+            <head>Articles of Agreement made and concluded betwixt the Lord of <hi>Ormend,</hi> and the Roman Catholiques of Ire<g ref="char:EOLhyphen"/>land. With a Denotation of ſuch additional Articles as was not included in the laſt Agreement betwixt them.</head>
+            <p>
+               <hi>Art.</hi> 1. THat the Roman Catholiques of <hi>Ireland</hi> be<g ref="char:cmbAbbrStroke">̄</g> freed of all Laws, impoſing mulcts, penalties or reſtraints on them, as to their Religion: The ſaid Laws to be repealed in the next Parliament to be held in this Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>That the ſaid Roman Catholiques ſhall not be ob<g ref="char:EOLhyphen"/>liged to the Oath of Supremacy.</p>
+            <p>
+               <hi>Addition.</hi> In this Article the granting of Churches or Church-livings, or the exerciſe of Juriſdiction excepted from the ſaid Roman Catholiques, yet the ſaid Roman Catholiques not be moleſted in the poſ<g ref="char:EOLhyphen"/>ſeſſion which they have at preſent of the Churches, or Church-livings, or of the excerciſe of Juriſdictions, until his Majeſties pleaſure be declared concerning a free <hi>Parliament</hi> in this Kingdom.</p>
+            <p>
+               <hi>Art.</hi> 2. A free Parliament to be held in <hi>Ireland</hi> within ſix moneths after the date of theſe Articles, or as ſoon as the Lord Viſcount <hi>Dillon</hi> of <hi>Costillogh,</hi> Lord Preſident of <hi>Conaught,</hi> Viſcount <hi>Muskovy,</hi> Lo. Baron of <hi>Alheurs, Alex:</hi> mac <hi>Donnel</hi> Eſquire, Sir <hi>lucas Dilſon</hi> Knight, Sir <hi>Nicholas Plunket</hi> Knight, Sir <hi>Richard Barnwel</hi> Baronet, <hi>Jeffery Brown, Donough o Kallagban, Tirlagh o Neil, Miles Reils,</hi> and <hi>Gerald Fennel,</hi> Eſquires, or the major part of them will de<g ref="char:EOLhyphen"/>ſire the ſame. And till ſuch <hi>Parliament,</hi> theſe Articles to be held inviolably as if enacted in <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>Addition.</hi> And if no <hi>Parliament</hi> be called within
+<pb n="15" facs="tcp:115341:8"/>two years after the date of the ſaid <hi>Articles,</hi> then at the requeſt of the ſaid Lord Viſcount <hi>Dillon,</hi> &amp;c. or the major part of them, an Aſſembly to be called of the Lords and Commons, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 3. All Acts, Ordinances, and Orders, made by both or either Houſes of Parliament, to the blem<g ref="char:EOLhyphen"/>iſh, &amp;c. of the ſaid Roman Catholiques, ſince the 7. of <hi>Auguſt,</hi> 1641. to be vacated, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 4. All Indictments, &amp;c. againſt the ſaid Ro<g ref="char:EOLhyphen"/>man Catholiques to be vacated.</p>
+            <p>
+               <hi>Art.</hi> 5. <hi>Addit.</hi> All impediments to the ſaid Roman Catho<g ref="char:EOLhyphen"/>liques fitting in the next <hi>Parliament,</hi> to be removed before the ſaid Parliament.</p>
+            <p>
+               <hi>Art.</hi> 6. All debts to remain as on the 23. <hi>Octob.</hi> 1641. notwithſtanding any attainder, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 7. The Eſtates of <hi>Conaught,</hi> Lo: of <hi>Clare, Limbrick,</hi> &amp;c. to be ſecured. <hi>Addit.</hi> Plantations of <hi>Kilkenny,</hi> and <hi>Vicklow</hi> left to the King to conſider of in the next <hi>Parliament:</hi> And will paſs an Act of Limitation, as was enacted in <hi>England</hi> in the 21. year of King <hi>James.</hi>
+            </p>
+            <p>
+               <hi>Artic.</hi> 8. All Incapacities on the Natives of the Kingdom to be taken away.</p>
+            <p>That they may erect one or more Inns of Court and free Schools, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 9. The Roman Catholiques to be employed and intruſted in all places in the Army, or Common<g ref="char:EOLhyphen"/>weal, indifferently with others,</p>
+            <p>
+               <hi>Addition.</hi> That until the next Parliament, an Ar<g ref="char:EOLhyphen"/>my of 15000 Foot, and 2500 Horſe, of the Roman Catholiques to be the ſtanding Army; the ſaid <hi>Lord Dillon,</hi> &amp;c. or the major part of them, having power
+<pb n="16" facs="tcp:115341:9"/>to diminiſh or adde to the ſaid number as they ſhall ſee cauſe from time to time.</p>
+            <p>
+               <hi>Art.</hi> 10. That his Majeſty be ſecured of 12000 <abbr>l.</abbr>
+               <hi>per annum,</hi> and in liew of the Court of Wards, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 11. No Nobleman to have more proxies then two in Parliament. No Nobleman to ſit in Parlia<g ref="char:EOLhyphen"/>ment, which hath not an eſtate in the Kingdom: and that they who have none at preſent ſhall purchaſe within five years after the date of theſe Articles: A Baron 200 <abbr>l.</abbr>
+               <hi>per annum:</hi> A Viſcount 400 <abbr>l.</abbr> an Earl 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Marqueſs 800 <abbr>l.</abbr> a Duke 1000. <hi>per annum.</hi> otherwiſe to loſe their Votes, &amp;c. None to be of the Commons houſe but ſuch as are eſtated and reſident in the <hi>Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> 12. Both Houſes of Parliament here to de<g ref="char:EOLhyphen"/>clare, according to the Laws of the <hi>Kingdom,</hi> concer<g ref="char:EOLhyphen"/>ning the Independency of the Parliament of <hi>Ireland,</hi> of the Parliament of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> 13. That the Councel Table, and Courts of Preſidency be confined, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 14. Some Statutes concerning Wooll, &amp;c. be repealed, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> 15. <hi>Addit.</hi> All offices, &amp;c. ſince 1. <hi>Jan.</hi> to be upon Petition examined, and all in them in<g ref="char:EOLhyphen"/>jured be repaired according to Juſtice and Honor.</p>
+            <p>
+               <hi>Art.</hi> 16. <hi>Addit.</hi> Certain named perſons may Petition in the next Parliament, and to be righted as ſhall be fitting.</p>
+            <p>
+               <hi>Art.</hi> 17. <hi>Addit.</hi> The Inhabitants of <hi>Cork, Youghal,</hi> and <hi>Dungarvan</hi> to be reſtored to their poſ<g ref="char:EOLhyphen"/>ſeſſion, ſo far as ſhall ſtand with the ſecu<g ref="char:EOLhyphen"/>rity of the ſaid Garriſons.</p>
+            <pb n="17" facs="tcp:115341:9"/>
+            <p>
+               <hi>Art.</hi> XVIII. An Act of oblivion to paſſed the next Parliament, &amp;c. for all things ſince <hi>Octob.</hi> 23. 1641. and to diſcharge the Kings Rent, &amp;c. before or ſince <hi>Octob.</hi> 23. 1641. till the date of theſe Articles, excepting the Kings Debts and Subſidies due before the 23. of <hi>Octob.</hi> 1641. before Levied and not ac<g ref="char:EOLhyphen"/>compted for.</p>
+            <p>That ſuch barbarous and inhumane crimes as ſhall be particularized and agreed upon by the Lord Lieute<g ref="char:EOLhyphen"/>nant, and the ſaid Lord <hi>Dillon,</hi> &amp;c. or any ſeven or more of them, as to the Actors and Procurers thereof, ſhall be left to be tryed and adjudged by ſuch indifferent Commiſſioners as ſhall be agreed on by the ſaid Lord Lieutenant, and the ſaid Lord <hi>Dillon,</hi> &amp;c. or any ſe<g ref="char:EOLhyphen"/>ven or more of them, the power of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners to continue only for two years, beginning within ſix moneths after the date of theſe Articles.</p>
+            <p>
+               <hi>Art.</hi> XIX. That the chief Governor, Lord Chan<g ref="char:EOLhyphen"/>cellor, Lord High Treaſurer, Vice Chancellor, &amp;c. farm not his Majeſties Cuſtoms.</p>
+            <p>
+               <hi>Art.</hi> XX. For recalling Monopolies.</p>
+            <p>
+               <hi>Art.</hi> XXI. For regulating the Court of Caſtle-Chamber.</p>
+            <p>
+               <hi>Art.</hi> XXII. For repealing two Acts concerning ploughing by the tail, and for burning oats in the ſtraw.</p>
+            <p>
+               <hi>Art.</hi> XXIII. For redreſſing thoſe grievances pre<g ref="char:EOLhyphen"/>ſented to his Majeſty by the Agents of the Kingdom, and Committees of the Houſes.</p>
+            <p>
+               <hi>Art.</hi> XXIV. Maritine cauſes to be heard in the Kingdom. Maritine cauſes until the next Parliament, to be Ordered by the Lord Lieutenant, Lord <hi>Dillon,</hi> &amp;c. or any ſeven or more of them.</p>
+            <p>
+               <hi>Art.</hi> XXV. All increaſe of Rents on the Com<g ref="char:EOLhyphen"/>miſſion
+<pb n="16" facs="tcp:115341:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:115341:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:115341:11"/>for defective Titles to ceaſe.</p>
+            <p>
+               <hi>Art.</hi> XXVI. Intereſt of Money ſince <hi>Octob.</hi> 23. 1641. till theſe Articles, to be forgiven, and but five pounds <hi>per cent.</hi> for three years, after the date of theſe Articles, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> XXVII. The ſaid Lord <hi>Dillon, &amp;c.</hi> to have power as followeth, and any of them dying, or miſ<g ref="char:EOLhyphen"/>carrying themſelves, &amp;c. the Lord Lieutenant to put in another who ſhall be allowed by ſeven or all of the Survivors.</p>
+            <p>They to have power to raiſe and Levy money on the Perſons or Eſtates of any in the Kingdom, with con<g ref="char:EOLhyphen"/>ſent of the Lord Lieutenant.</p>
+            <p>To call in all Arrears of Excize, <hi>&amp;c.</hi> impoſed by the Roman Catholiques.</p>
+            <p>Addition. <hi>To diſpoſe of the Eſtates of all adhering to the ad<g ref="char:EOLhyphen"/>verſe Party, the profits thereof to be for the Army, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>To levy Arrears for buying Arms, &amp;c. and for entertaining Frigots', &amp;c.</hi>
+            </p>
+            <p>
+               <hi>To lay up ſuch Arms and Ammunition in ſuch Magazines, and under ſuch perſons as they ſhall think fit, with conſent of the Lord Lieutenant.</hi>
+            </p>
+            <p>
+               <hi>To raiſe money of the Eſtates of the Roman Catholiques, for diſengaging the Roman Catholiques, before the concluſion of theſe Articles.</hi>
+            </p>
+            <p>
+               <hi>To call the Councel, Congregation, and reſpective, ſupreme Councels, and Commiſſioners General, before appointed by the Roman Catholiques, to an accompt, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> XXVIII. The ſaid Lord Lieutenant, and Lord <hi>Dillon,</hi> &amp;c. to agree who to be Juſtices of the Peace, <hi>&amp;c.</hi> during pleaſure.</p>
+            <p>
+               <hi>Art.</hi> XXIX. Until the ſetling of all in theſe Arti<g ref="char:EOLhyphen"/>cles by Act of Parliament, the Poſſeſſion of his Ma<g ref="char:EOLhyphen"/>jeſties Cities, Gariſons, Towns, Forts, and Caſtles,
+<pb n="19" facs="tcp:115341:11"/>now in the Quarters of the Roman Catholiques, to continue in the ſaid Roman Catholiques, the ſame to be commanded by ſuch as ſhall be approved by the ſaid Lord <hi>Dillon, &amp;c.</hi> and authorized by the Lord Lieutenant, &amp;c.</p>
+            <p>
+               <hi>Art.</hi> XXX. That all Cuſtoms and Tenths of Pri<g ref="char:EOLhyphen"/>zes belonging to his Majeſty, to be for publique uſes until the ſettlement by Parliament.</p>
+            <p>
+               <hi>Art.</hi> XXXI. The Kings Rent from Eaſter next, not to be levyed till a ſettlement in Parliament, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> XXXII. The power of Commiſſioners of <hi>Oyer, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> XXXIII. For appointing Judicatures, the perſons to be named by the Lord <hi>Dillon, &amp;c. Addit.</hi> and authorized by the Lord Lieutenant, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Art.</hi> XXXIV. The Roman Regular Clergy to hold the ſtile of Monaſteries belonging to Roman Catholiques. <hi>Addit.</hi> And that until the next Parliament, provided that the ſaid Regulars be con<g ref="char:EOLhyphen"/>formable to theſe Articles.</p>
+            <p>
+               <hi>Art.</hi> XXXV. All other demands of the ſaid Ro<g ref="char:EOLhyphen"/>man Catholiques not aſſented to in theſe Articles to be referred to his Majeſty.</p>
+            <q>
+               <p>In witneſs whereof,</p>
+               <p>
+                  <hi>The Lord Lieutenant Signed and Sealed for his Majeſty, this remaining with the ſaid Roman Catholiques.</hi>
+               </p>
+               <p>
+                  <hi>And Sir</hi> Richard Blake, <hi>Knight, in the Chair of the general Aſſembly of the ſaid Roman Catholiques, by Order of the ſaid Aſſembly, to that part remaining with the Lord Lieutenant hath put his hand, and the publique Seal hitherto uſed by the ſaid Ro<g ref="char:EOLhyphen"/>man Catholiques,</hi> 
+                  <date>17. January, 1648.</date>
+               </p>
+            </q>
+         </div>
+         <div type="text">
+            <pb n="20" facs="tcp:115341:12"/>
+            <head>A neceſſary Repreſentation of the preſent evils and imminent dangers, to Religion, Laws, and Liber<g ref="char:EOLhyphen"/>ties, ariſing from the late and preſent practices of the Sectarian Party in <hi>England;</hi> together with an Exhortation to duties relating to the Covenant unto all within our charge, and to all the well-affected within this Kingdom, by the Presbytery at <hi>Belfaſt, Feb. 15. 1649.</hi>
+            </head>
+            <p>VVHen we do ſeriouſly conſider the great and many duties which we owe unto God, and his people, over whom he hath made us overſeers, and for whom we muſt give an accompt; and when we behold the laudable examples of the worthy Miniſters of the Province of <hi>London,</hi> and of the Com<g ref="char:EOLhyphen"/>miſſioners of the General Aſſembly of the Church of <hi>Scotland,</hi> in their free and faithful Teſtimonies againſt the inſolencies of the Sectarian Party in <hi>England.</hi> Conſidering alſo the dependen<g ref="char:EOLhyphen"/>cy of this Kingdom upon the Kingdom of <hi>England,</hi> and re<g ref="char:EOLhyphen"/>membring how againſt ſtrong oppoſition we were aſſiſted by the Lord the laſt year in diſcharge of the like duty, and how he puniſhed the contempt of our warning upon the deſpiſers there<g ref="char:EOLhyphen"/>of, we finde our ſelves as neceſſitated, ſo the more encouraged to caſt in our Mite in the Treaſury, leaſt our ſilence ſhould in<g ref="char:EOLhyphen"/>volve us in the guilt of unfaithfulneſs, and our people in ſecuri<g ref="char:EOLhyphen"/>ty and neglect of duties.</p>
+            <p>In this diſcharge of the Truſt put upon us by God, we would not be looked upon as ſowers of Sedition or Troubles of Na<g ref="char:EOLhyphen"/>tional and deviſive motions; our record is in Heaven, that no<g ref="char:EOLhyphen"/>thing is more hateful unto us, or leſs intended by us, and there<g ref="char:EOLhyphen"/>fore we ſhall not fear the malicious and wicked aſperſions, which we know Satan by his inſtruments, is ready to caſt not onely upon us, but upon all who ſincerely endeavor the advance<g ref="char:EOLhyphen"/>ment of reformation: what of late have been, and now are the inſolent and preſumptuous practices of the Sectaries in <hi>England,</hi>
+               <pb n="21" facs="tcp:115341:12"/>is not unknown unto the world, for not withſtanding their ſpe<g ref="char:EOLhyphen"/>cious pretences for Religion and Liberties, yet their late and preſeat actions being therewith compared, do clearly evi<g ref="char:EOLhyphen"/>dence, that they love to wear a rough Garment, to deceive, ſince they with a high hand deſpiſed the Oath in breaking the Covenant, which is ſo ſtrong a foundation to both, whileſt they load it with ſlightive reproaches, calling it a bundle of parti<g ref="char:EOLhyphen"/>culars, and a contrary intereſt and a ſnare to the people, and likewiſe labor to eſtabliſh by Laws an univerſal Toleration of all Religions, which is an avowed overturning of unity in Reli<g ref="char:EOLhyphen"/>gion, and ſo directly repugnant to the Word of God; The two firſt Articles of the Solemn Covenant, which is the greater wic<g ref="char:EOLhyphen"/>kedneſs in them to violate, ſince many of the chiefeſt of them<g ref="char:EOLhyphen"/>ſelves, have with their hands lifted up to the moſt high God Sworn and Sealed it.</p>
+            <p>Moreover, the great diſaffection to the ſettlement of Reli<g ref="char:EOLhyphen"/>gion, and to their further breach of Covenant, doth more fully appear by their ſtrong oppoſitions to Presbyterial Government (the hedge and Bulwark of Religion) whileſt they expreſs their hatred to it more then to the worſt of Errors, by ex<g ref="char:EOLhyphen"/>cluding it under the name of compulſion, when they embrace even Paganiſim and Judaiſm in the Arms of Toleration, not to ſpeak of their aſperſions upon it, and the aſſerters thereof, as Antichriſtian and Popiſh, though they have deeply ſworn to maintain the ſame Government in the firſt Article of the Covenant, as it is eſtabliſhed in the Church of <hi>Scotland,</hi> which they now ſo deſpitefully blaſpheme.</p>
+            <p>Again, It is more then manifeſt that they ſpeak not the vin<g ref="char:EOLhyphen"/>dication, but the extirpation of Laws and Liberties, as ap<g ref="char:EOLhyphen"/>pears by their ſeizing on the perſon of the King, and at their pleaſure removing him from place to place, not onely without the conſent, but if we miſtake not, againſt a direct Ordinance of Parliament; their violent ſurpriſing, impriſoning and ſeclu<g ref="char:EOLhyphen"/>ding many of the moſt worthy Members of the Honorable Houſe of Commons, directly againſt a declared priviledge of Parliament (an action certainly without parallel in any age) and their propoſal of aboliſhing of all Parliamentary Power
+<pb n="22" facs="tcp:115341:13"/>for the future, and eſtabliſhing a Repreſentative (as they call it) inſtead thereof; neither hath their fury ſtayed here, but with<g ref="char:EOLhyphen"/>out all rule or example, being but private men, they have pro<g ref="char:EOLhyphen"/>ceeded to the tryal of the King, againſt both the Intereſt and Proteſtations of the Kingdom of <hi>Scotland,</hi> and the former pub<g ref="char:EOLhyphen"/>lique Declarations of both kingdoms (beſides their violent haſte, rejecting the hearing of any defences) with cruel hands have put him to death, an act ſo horrible, as no Hiſtory Divine or Humane hath layed any preſident of the like.</p>
+            <p>Theſe and many other deteſtable inſolencies, may abundantly convince any unbyaſed judgement, that the preſent practice of the Sectaries and their Abettors, do directly overturn the Laws and Liberties of the kingdoms, root out lawful and Supreme Magiſtracy (the juſt priviledges whereof we have ſworn to maintain) and introduce a fearful confuſion, and Lawleſs Anarchy.</p>
+            <p>The Spirit of God by <hi>Solomon</hi> tells us, <hi>Prov.</hi> 30.21. That a Servant to raign it one of the four things for which the Earth is diſquieted, and which it cannot bear; we wonder nothing that the Earth is diſquieted for theſe things, but we wonder greatly if the Earth can bear them, and albeit, the Lord ſo per<g ref="char:EOLhyphen"/>mit that folly be ſet in great dignity, and the rich ſet in low places; that Servants ride upon Horſes, and Princes walk as Ser<g ref="char:EOLhyphen"/>vants upon the Earth, <hi>Eccleſ.</hi> 10<g ref="char:punc">▪</g> 6, 7. yet the ſame wiſe man ſaith, <hi>Prov.</hi> 19.10. Delight is not ſeemly for a fool, much leſs for a Servant to have rule over Princes.</p>
+            <p>When we conſider theſe things, we cannot but declare and manifeſt our utter diſlike and deteſtations of ſuch unwarrantable practices, directly ſubverting our Covenant, Laws, Religion, and Liberties: And as watchmen in <hi>Slon,</hi> warn all the lovers of truth, and well-affected to the Covenant, carefully to avoid com<g ref="char:EOLhyphen"/>plyance with, or not bearing witneſs againſt ſuch horrid inſo<g ref="char:EOLhyphen"/>lencies, leaſt partaking with them in their ſins, they alſo be par<g ref="char:EOLhyphen"/>takers of their Plagues. Therefore in the Spirit of meekneſs we earneſtly entreat, and in the authority of Jeſus Chriſt (whoſe Servants we are) charge and obteſt all who reſolve to adhere unto Truth and the Covenant, diligently to obſerve,
+<pb n="23" facs="tcp:115341:13"/>and conſcientiouſly to perform theſe following duties.</p>
+            <p>Firſt, that according to our Solemn Covenant, every one ſtudy more to the power of godlineſs and perſonal reformation of themſelves and Families, becauſe for the great breach of this part of the Covenant, God is highly offended with theſe Lands, and juſtly provoked to permit men to be the inſtruments of our miſery and afflictions.</p>
+            <p>Secondly, That every one in their ſtation and calling, earn<g ref="char:EOLhyphen"/>eſtly contend for the Faith which once was delivered to the Saints, <hi>Jude v.</hi> 3. and ſeek to have their hearts eſtabliſhed with grace, that they be not unſtable and wavering, carryed about with every wind of Doctrine, but that they receive the Truth in love, avoiding the company of ſuch as withdraw from, and vilifie the publique Ordinances, ſpeak evil of Church-Go<g ref="char:EOLhyphen"/>vernment, vent damnable Errors, under the ſpecious pretence of a Goſpel-way, and New-light, and honor highly the per<g ref="char:EOLhyphen"/>ſons and courſes of notorious Sectaries, leaſt God give them over to ſtrong deluſions (the plague of theſe times) that they may believe lyes and be damned.</p>
+            <p>Thirdly, that they would not be drawn by Councel, Command or Example, to ſhake off the ancient and Fundamental Govern<g ref="char:EOLhyphen"/>ment of theſe Kingdoms by King and Parliament, which we are ſo deeply engaged to preſerve by our Solemn Covenant, as they would not be found guilty of the great evils of theſe times (condemned by the Holy Ghoſt) the deſpiſing of Dominion, and ſpeaking evil of Dignities.</p>
+            <p>Fourthly, That they do cordially endeavor the preſervation of the Union among the well-affected in the Kingdoms, not being ſwayed by any National reſpect, remembring that part of the Covenant, <hi>That we ſhall not ſuffer our ſelves directly nor indirectly, by whatſoever combination, perſwaſion or terror, to be divided or withdrawn from this bleſſed <g ref="char:V">Ʋ</g>nion and Conjunction.</hi>
+            </p>
+            <p>And finally, Albeit there be more preſent hazards from the power of Sectaries (as there was from Malignants the laſt year) yet we are not ignorant of the evil purpoſes of Malignants, even at this time in all the Kingdoms, and particularly in this; and for this cauſe, we exhort every one with equal watchful<g ref="char:EOLhyphen"/>neſs,
+<pb n="24" facs="tcp:115341:14"/>to keep themſelves free from aſſociating with ſuch, or from ſwerving in their judgements to Malignant principles, and to avoid all ſuch perſons as have been from the beginning known oppoſers of the Covenant, combining themſelves with Papiſts and other notorious Malignants, eſpecially ſuch who have been chief Promoters of the late Ingagement againſt <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> calumniators of the work of Reformation, imputing the miſery of the preſent times unto the advancers thereof, and that their juſt hatred to Sectaries incline not their mindes to favour Malignants, or to think, that becauſe of the power of Sectaries, the Cauſe of God needs the more to fear the Enemy, or to ſtand in need of the help of Malignants.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
